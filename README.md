@@ -1,6 +1,7 @@
 # My-Script_2 
 
 **7kyu
+
 ____________
 An array is given with palindromic and non-palindromic numbers. A palindromic number is a number that is the same from a reversed order. For example 122 is not a palindromic number, but 202 is one.
 
